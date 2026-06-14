@@ -10,11 +10,11 @@
 
 ## About Me
 
-Results-driven **Computer Science undergraduate** specializing in full-stack web, cross-platform mobile application development, and AI/ML solutions[cite: 1]. Proven hands-on experience in building responsive systems using React and React Native, while integrating deep learning frameworks (CNNs) for intelligent predictions[cite: 1]. Proficient in managing containerized architectures via Docker and engineering distributed data pipelines[cite: 1].
+Results-driven **Computer Science undergraduate** specializing in full-stack web, cross-platform mobile application development, and AI/ML solutions[cite: 1]. Proven hands-on experience in building responsive systems using React and React Native, while integrating deep learning frameworks (CNNs) for intelligent predictions[cite: 1]. Proficient in managing containerized architectures via Docker and engineering distributed data pipelines.
 
-- **Education:** BSc (Hons) in Computer Science | Plymouth University (NSBM)[cite: 1]
-- **Target Roles:** Associate Technology Roles / Internship Opportunities[cite: 1]
-- **Core Competencies:** Full-Stack Architecture, Predictive Pipelines, System Integration[cite: 1]
+- **Education:** BSc (Hons) in Computer Science | Plymouth University (NSBM)
+- **Target Roles:** Associate Technology Roles / Internship Opportunities
+- **Core Competencies:** Full-Stack Architecture, Predictive Pipelines, System Integration
 
 ---
 
@@ -51,16 +51,16 @@ Results-driven **Computer Science undergraduate** specializing in full-stack web
 ## Featured Projects
 
 ### AI-Based Skin Disease Prediction System
-- Designed and deployed a multimodal computer vision system leveraging Deep Learning algorithms and Convolutional Neural Networks (CNN) to achieve high-accuracy automated skin disease prediction[cite: 1].
-- Engineered end-to-end components to integrate image preprocessing and feature extraction layers directly into predictive model pipelines[cite: 1].
+- Designed and deployed a multimodal computer vision system leveraging Deep Learning algorithms and Convolutional Neural Networks (CNN) to achieve high-accuracy automated skin disease prediction.
+- Engineered end-to-end components to integrate image preprocessing and feature extraction layers directly into predictive model pipelines.
 
 ### "Food Dash" E-Commerce Application
-- Architected and developed a responsive e-commerce web application utilizing React and JavaScript[cite: 1].
-- Implemented optimized client-side state management for dynamic shopping cart logic, seamless user navigation, and checkout workflows[cite: 1].
+- Architected and developed a responsive e-commerce web application utilizing React and JavaScript.
+- Implemented optimized client-side state management for dynamic shopping cart logic, seamless user navigation, and checkout workflows.
 
 ### Predictive Analytics Pipeline for E-commerce Return Optimization
-- Built an end-to-end Big Data pipeline using MongoDB Atlas and PySpark on Databricks[cite: 1].
-- Deployed a Decision Tree Classifier with **94.67% accuracy** to predict high-risk product returns before shipping, providing data-driven strategies to boost annual profitability by 15%[cite: 1].
+- Built an end-to-end Big Data pipeline using MongoDB Atlas and PySpark on Databricks.
+- Deployed a Decision Tree Classifier with **94.67% accuracy** to predict high-risk product returns before shipping, providing data-driven strategies to boost annual profitability by 15%.
 
 ---
 
@@ -74,6 +74,6 @@ Results-driven **Computer Science undergraduate** specializing in full-stack web
 ---
 
 ## Contact Information
-- **Phone:** +94 70 242 2470[cite: 1]
-- **Email:** kalharatishan123@gmail.com[cite: 1]
-- **LinkedIn:** [linkedin.com/in/tishan-kalhara](https://www.linkedin.com/in/tishan-kalhara)[cite: 1]
+- **Phone:** +94 70 242 2470
+- **Email:** kalharatishan123@gmail.com
+- **LinkedIn:** [linkedin.com/in/tishan-kalhara](https://www.linkedin.com/in/tishan-kalhara]
