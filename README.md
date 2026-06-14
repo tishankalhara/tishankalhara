@@ -10,7 +10,7 @@
 
 ## About Me
 
-Results-driven **Computer Science undergraduate** specializing in full-stack web, cross-platform mobile application development, and AI/ML solutions[cite: 1]. Proven hands-on experience in building responsive systems using React and React Native, while integrating deep learning frameworks (CNNs) for intelligent predictions[cite: 1]. Proficient in managing containerized architectures via Docker and engineering distributed data pipelines.
+Results-driven **Computer Science undergraduate** specializing in full-stack web, cross-platform mobile application development, and AI/ML solutions. Proven hands-on experience in building responsive systems using React and React Native, while integrating deep learning frameworks (CNNs) for intelligent predictions. Proficient in managing containerized architectures via Docker and engineering distributed data pipelines.
 
 - **Education:** BSc (Hons) in Computer Science | Plymouth University (NSBM)
 - **Target Roles:** Associate Technology Roles / Internship Opportunities
