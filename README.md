@@ -76,4 +76,4 @@ Results-driven **Computer Science undergraduate** specializing in full-stack web
 ## Contact Information
 - **Phone:** +94 70 242 2470
 - **Email:** kalharatishan123@gmail.com
-- **LinkedIn:** [linkedin.com/in/tishan-kalhara](https://www.linkedin.com/in/tishan-kalhara]
+- **LinkedIn:**  https://www.linkedin.com/in/tishan-kalhara
